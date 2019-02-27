@@ -1,0 +1,77 @@
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\2-Managing Packages\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\3-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\4-Adding Theme\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\sadikturan\Desktop\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+D:\OneDrive\kurslar\asp.net core mvc 2\4-Mini Project - MovieApp\8-Partial Views\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojResolveAssemblyReference.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+D:\OneDrive\kurslar\asp.net core mvc 2\0-Projects\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.deps.json
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.json
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.runtimeconfig.dev.json
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\bin\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csprojAssemblyReference.cache
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.csproj.CoreCompileInputs.cache
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfoInputs.cache
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.AssemblyInfo.cs
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.dll
+C:\Users\mehmet akif\Desktop\MovieApp\MovieApp.MvcWebUI\obj\Debug\netcoreapp2.0\MovieApp.MvcWebUI.pdb

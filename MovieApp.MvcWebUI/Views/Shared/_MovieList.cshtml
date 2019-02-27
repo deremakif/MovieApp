@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Movie>
+
+@foreach (var movie in Model)
+{
+    <div class="col-md-4">
+        <div class="card " >
+            <img class="card-img-bottom" src="~/img/@movie.Image" alt="@movie.Name">
+            <div class="card-body">
+                <p class="card-text">@movie.Name</p>
+                <a asp-controller="Home"
+                   asp-action="Details"
+                   asp-route-id="@movie.Id"
+                   class="btn btn-success">Details</a>
+            </div>
+        </div>
+    </div>
+}
